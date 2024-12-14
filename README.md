@@ -4,3 +4,8 @@ This is my first git repository.
 Author - Aarjoo Kumar
 <br>
 From IIT Mandi in electrical engg.
+
+
+# Intern
+Frontend Developer at VRV Security Pvt Ltd
+Freelancer at Disha Publications INC
